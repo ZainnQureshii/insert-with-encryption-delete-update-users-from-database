@@ -1,0 +1,9 @@
+c:\users\shs\documents\visual studio 2012\Projects\Testing\Testing\bin\Debug\Testing.exe.config
+c:\users\shs\documents\visual studio 2012\Projects\Testing\Testing\bin\Debug\Testing.exe
+c:\users\shs\documents\visual studio 2012\Projects\Testing\Testing\bin\Debug\Testing.pdb
+c:\users\shs\documents\visual studio 2012\Projects\Testing\Testing\obj\Debug\Testing.Form1.resources
+c:\users\shs\documents\visual studio 2012\Projects\Testing\Testing\obj\Debug\Testing.Properties.Resources.resources
+c:\users\shs\documents\visual studio 2012\Projects\Testing\Testing\obj\Debug\Testing.csproj.GenerateResource.Cache
+c:\users\shs\documents\visual studio 2012\Projects\Testing\Testing\obj\Debug\Testing.exe
+c:\users\shs\documents\visual studio 2012\Projects\Testing\Testing\obj\Debug\Testing.pdb
+C:\Users\SHS\documents\visual studio 2012\Projects\Testing\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
